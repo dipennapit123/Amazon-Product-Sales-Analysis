@@ -13,7 +13,7 @@ Sales Data : The primary dataset used for this "electronics.csv" file, containin
 ### Data Cleaning /Preparation
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspections.
-2. Hnadling missing values.
+2. Handling missing values.
 3. Data cleaning and formating
 
 ### Exploratory Data Analysis
